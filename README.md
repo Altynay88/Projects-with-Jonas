@@ -12,3 +12,7 @@
 ![Снимок экрана (226)](https://user-images.githubusercontent.com/79243168/156541416-188558ad-37f1-486d-9bfb-1a0c59b04f2f.png)
 ![Снимок экрана (227)](https://user-images.githubusercontent.com/79243168/156541424-122c999b-df23-45cf-983d-46919651205c.png)
 ![Снимок экрана (228)](https://user-images.githubusercontent.com/79243168/156541429-19983143-58d7-4f12-9310-03eae2d2d045.png)
+
+4. Bankist 
+![Снимок экрана (325)](https://user-images.githubusercontent.com/79243168/168972392-4ccf6e59-d201-4b8a-85ba-7b1f361fc3d4.png)
+![Снимок экрана (326)](https://user-images.githubusercontent.com/79243168/168972401-11071dc6-2c4c-494c-a1c6-2ee58b55e62f.png)
