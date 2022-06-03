@@ -23,3 +23,6 @@
 ![Снимок экрана (337)](https://user-images.githubusercontent.com/79243168/169959782-ef0e48ac-8190-46d8-ae41-ffe76bdf7624.png)
 ![Снимок экрана (338)](https://user-images.githubusercontent.com/79243168/169959784-3c802c3b-48fd-428f-8cd8-0bd1291d8dc5.png)
 ![Снимок экрана (339)](https://user-images.githubusercontent.com/79243168/169959786-6f1578c3-1a0d-4e46-a709-67d525386cf9.png)
+
+6. Mapty
+7. ![Снимок экрана (344)](https://user-images.githubusercontent.com/79243168/171790203-439628e4-bef2-495c-8bc5-b6f18165e90b.png)
